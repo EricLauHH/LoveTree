@@ -15,5 +15,5 @@ var config = {
     // 分别是 年-月-日 时:分:秒
     date: "2018-07-23 20:30:0",
     // 双方的名字
-    names: ["hzy", "lhh"]
+    names: ["Ducky Hong", "Puppy Liu"]
 }
